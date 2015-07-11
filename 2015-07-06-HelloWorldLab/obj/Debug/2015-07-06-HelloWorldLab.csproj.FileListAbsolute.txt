@@ -1,0 +1,6 @@
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-06-HelloWorldLab\2015-07-06-HelloWorldLab\bin\Debug\2015-07-06-HelloWorldLab.exe.config
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-06-HelloWorldLab\2015-07-06-HelloWorldLab\bin\Debug\2015-07-06-HelloWorldLab.exe
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-06-HelloWorldLab\2015-07-06-HelloWorldLab\bin\Debug\2015-07-06-HelloWorldLab.pdb
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-06-HelloWorldLab\2015-07-06-HelloWorldLab\obj\Debug\2015-07-06-HelloWorldLab.csprojResolveAssemblyReference.cache
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-06-HelloWorldLab\2015-07-06-HelloWorldLab\obj\Debug\2015-07-06-HelloWorldLab.exe
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-06-HelloWorldLab\2015-07-06-HelloWorldLab\obj\Debug\2015-07-06-HelloWorldLab.pdb
